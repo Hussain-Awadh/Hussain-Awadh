@@ -1,6 +1,5 @@
 ##  About Me:
 
-- A Student pursuing a Diploma in Software Development at 42 Abu Dhabi.
 - Well versed in C programming & successfully completed fundamental C++ modules.
 - Have knowledge in back-end development, Nestjs, & TypeScript.
 - Have one year experience in software development working on solo and group projects. Programmed primarily in the C programming language and C++ programming language. 
