@@ -11,12 +11,12 @@
               
 
 ## :camera: Profile
-![Hussain's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MisterTooh&theme=blue-green)
-![**linkedin**](https://linkedin-github.herokuapp.com/api/render/Hussain%20Awadh/Software%20Developer/Student/Diploma/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4D03AQEWTnrZeQapSQ%2Fprofile-displayphoto-shrink_400_400%2F0%2F1660490709890%3Fe%3D1672876800%26v%3Dbeta%26t%3DETsKIaCZyAm_enIYYgLGJvsPd3jEOdOwFQNa97wNusk)
-<br/>![**Hussain's github stats**](https://github-readme-stats.vercel.app/api?username=mistertooh&theme=blue-green)
-<br/>![Hussain's github streak](https://github-readme-streak-stats.herokuapp.com/?user=MisterTooh&theme=blue-green)
-<br/>[![hawadh's 42 stats](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/stats?cursusId=21&coalitionId=153)](https://github.com/JaeSeoKim/badge42)
-<br/>[![hawadh's 42 stats](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/stats?cursusId=9&coalitionId=153)](https://github.com/JaeSeoKim/badge42)
+**[Top Languages]**<br/>![Hussain's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MisterTooh&theme=radical)
+<br/>**[Linkedin]**<br/>![**linkedin**](https://linkedin-github.herokuapp.com/api/render/Hussain%20Awadh/Software%20Developer/Student/Diploma/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4D03AQEWTnrZeQapSQ%2Fprofile-displayphoto-shrink_400_400%2F0%2F1660490709890%3Fe%3D1672876800%26v%3Dbeta%26t%3DETsKIaCZyAm_enIYYgLGJvsPd3jEOdOwFQNa97wNusk)
+<br/>**[Github Stats]**<br/>![Hussain's github stats](https://github-readme-stats.vercel.app/api?username=MisterTooh&theme=radical)
+<br/>**[Github Streak]**<br/>![Hussain's github streak](https://github-readme-streak-stats.herokuapp.com/?user=MisterTooh&theme=radical)
+<br/>**[Cursus Stats]**<br/>[![hawadh's 42 stats](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/stats?cursusId=21&coalitionId=153)](https://github.com/JaeSeoKim/badge42)
+<br/>**[Piscine Stats]**<br/>[![hawadh's 42 stats](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/stats?cursusId=9&coalitionId=153)](https://github.com/JaeSeoKim/badge42)
 <br/>![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=MisterTooh&row=1)
 <br/>![MisterTooh's Codewars Profile](https://www.codewars.com/users/MisterTooh/badges/large)
 ##  :notebook_with_decorative_cover: 42 cursus (Sept 26 2021 ~)
@@ -40,9 +40,12 @@
 |   16   | [**CPP01**] |                    C++                 | [![hawadh's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2919750)](https://github.com/JaeSeoKim/badge42)|
 |   17   | [**CPP02**] |                    C++                 | [![hawadh's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2920507)](https://github.com/JaeSeoKim/badge42)|
 |   18   | [**CPP03**] |                    C++                 | [![hawadh's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2924269)](https://github.com/JaeSeoKim/badge42)|
-|   19   | [**CPP04**] |                    C++                 | [![hawadh's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2924638)](https://github.com/JaeSeoKim/badge42)
+|   19   | [**CPP04**] |                    C++                 | [![hawadh's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2924638)](https://github.com/JaeSeoKim/badge42)|
 |   20   | [**CPP05**] |                    C++                 | [![hawadh's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2926422)](https://github.com/JaeSeoKim/badge42)|
-|   21   | [**CPP06**] |                    C++                | [![hawadh's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2931805)](https://github.com/JaeSeoKim/badge42)
-|   22   | [**Netpractice**] |           Network/IP             | [![hawadh's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2706008)](https://github.com/JaeSeoKim/badge42)|
+|   21   | [**CPP06**] |                    C++                 | [![hawadh's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2931805)](https://github.com/JaeSeoKim/badge42)|
+|   22   | [**CPP07**] |                    C++                 | [![hawadh's 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/3031594)](https://github.com/JaeSeoKim/badge42)|
+|   23   | [**CPP08**] |                    C++                 | [![hawadh's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/3032989)](https://github.com/JaeSeoKim/badge42)|
+|   24   | [**Netpractice**] |           Network/IP             | [![hawadh's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2706008)](https://github.com/JaeSeoKim/badge42)|
+|   24   | [**ft_irc**] |                   C++                 | [![hawadh's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/3027254)](https://github.com/JaeSeoKim/badge42)
 
 All code is placed in a private repository for IP.
